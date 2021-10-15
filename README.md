@@ -5,7 +5,7 @@ Just a wee hardware monitor using the amazing Module https://github.com/PrateekK
 
 You will need to have this installed before running the script
 
-Just a first go at this, already a few improvemnts I want to make.
+Just a first go at this, already a few improvemnts I want to make. (make into function, better error handling, etc..)
 
 to stop it CTRL+C
 
